@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: rgb(34, 110, 187);
+    color: white;
+    height: 6rem;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 3rem;
+}
+
+#features {
+    text-align: center;
+    padding: 4rem;
+    margin: 2rem;
+    border: 3px solid blue;
+    font-size: 2rem;
+}
+
+input {
+    width: 5rem;
+    height: 2rem;
+    font-weight: bold;
+    font-size: 2rem;
+    
+}
+
+#calc-action #btn-add {
+    padding: 10px;
+    background-color: blue;
+    font-size: 2rem;
+    color: white;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
+#calc-action #btn-subtract {
+    padding: 10px;
+    background-color: blue;
+    font-size: 2rem;
+    color: white;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
+#calc-action #btn-multiply {
+    padding: 10px;
+    background-color: blue;
+    font-size: 2rem;
+    color: white;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
+#calc-action #btn-divide {
+    padding: 10px;
+    background-color: blue;
+    font-size: 2rem;
+    color: white;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
+.new-update {
+    color: red;
+    text-align: center;
+}
